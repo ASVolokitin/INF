@@ -1,0 +1,20 @@
+- page-content:
+    - content:
+        - content_block:
+            - page-header: "Расписание занятий (Волокитин Александр Сергеевич)"
+            - rasp_tabl_day:
+                - lesson_1:
+                    - day: "Thursday"
+                    - time: "8:20-9:50"
+                    - room: "ауд. 2430"
+                    - fa-map-maker: "Кронверский пр., д.49, лит.А"
+                    - lesson: "История российской науки и техники (Прак)"
+                    - lesson-format: "Очный"
+                - lesson_2:
+                    - day: "Thursday"
+                    - time: "13:30-15:00"
+                    - room: "ауд. 1404"
+                    - fa-map-maker: "Кронверский пр., д.49, лит.А"
+                    - lesson: "История российской науки и техники (Лек)"
+                    - lesson-format: "Очный"
+                - new_string: "Something"
